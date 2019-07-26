@@ -26,3 +26,8 @@ When you want to draw shapes using a colur that is different from the default co
   Third, click on the buttton of the shape you want to draw.
     And then draw on the canvas.
     
+    
+### drawing a circle
+
+To draw a circle and not an ellipse, press Alt key and draw.
+    
